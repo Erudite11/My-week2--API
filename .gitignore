@@ -1,2 +1,2 @@
-git add .
-git commit -m "Remove node_modules and .env from tracking"
+node_modules/
+.env
